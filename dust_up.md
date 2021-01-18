@@ -7,9 +7,13 @@
 **Highest number of lines is 17 (standalone) or 15 (if integrated)**
 
 These scripts will attempt to mix up dusts beginning at tier 1, so that you have the specified amount of dusts/ingots of your desired tier.
+
 First it counts your existing resources (considering lumps, ores, ingots and dusts) of each tier, calculates how many dusts are additionally needed at each tier to produce your desired amount of resources for the set tier and cancels if there are not enough resources overall. In that case, the variable `resources_needed_tier_1` will be greater then `0`.
+
 After verifying that there are enough resources, it begins at tier 1 and processes lumps, ores and ingots (in that order) until there are enough dusts to mix up enough for the next tier.
+
 Then it mixes enough lumps, so that there are enough resources for the next tier to do the mixing there.
+
 When it arrives at the desired tier, it'll process lumps and ores until there are enough dusts and ingots at your desired tier for you to craft with.
 
 ## Usage
