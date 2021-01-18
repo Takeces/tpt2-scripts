@@ -3,6 +3,7 @@
 **These scripts are making sure, that you've got at least 1 dust or ingot of each tier remaining!**
 
 **For standalone use or integration into crafting scripts.**
+
 **Highest number of lines is 17 (standalone) or 15 (if integrated)**
 
 These scripts will attempt to mix up dusts beginning at tier 1, so that you have the specified amount of dusts/ingots of your desired tier.
