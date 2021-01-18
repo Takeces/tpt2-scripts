@@ -1,6 +1,6 @@
 # Dust Up
 
-**These scripts are making sure, that you've got at least 1 dust or ingot of each tier remaining!**
+**This collection of 7 scripts is making sure, that you've got at least 1 dust or ingot of each tier remaining!**
 
 **For standalone use or integration into crafting scripts.**
 
