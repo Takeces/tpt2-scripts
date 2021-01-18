@@ -25,7 +25,7 @@ Edit the script `dust_up` and modify the values:
 * `target_dust_count` to the desired number of resources you need for that tier
 In the Factory hit key `1` (or what you've changed it to) to start
 
-### Integrades
+### Integrated
 
 Edit the script `dust_up` and remove the lines that set the values for the global variables `target_dust_tier` and `target_dust_count`. Set those variables in your calling script.
 
