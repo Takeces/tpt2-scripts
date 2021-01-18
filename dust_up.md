@@ -184,8 +184,6 @@ dust_up_mix (0 0 9)
 ```
 ; Mix required dusts of next tier
 :global int dust_up_loop_tier
-:local double crafts_possible
-:local double crafts_left
 :local double mix_left
 :local double mix_now
 
