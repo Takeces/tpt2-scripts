@@ -1,6 +1,6 @@
 # Dust Up
 
-** For standalone use or integration into crafting scripts.
+**For standalone use or integration into crafting scripts.
 
 These scripts will attempt to mix up dusts beginning at tier 1, so that you have the specified amount of dusts/ingots of your desired tier.
 First it counts your existing resources (considering lumps, ores, ingots and dusts) of each tier, calculates how many dusts are additionally needed at each tier to produce your desired amount of resources for the set tier and cancels if there are not enough resources overall.
